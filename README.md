@@ -5,9 +5,13 @@ Finding the speed of linearly moving objects using laser
 In order to make a speedometer we need:
 
 #Bread Board
+
 #Arduino
+
 #2 LDR’s
+
 #Jumper wires
+
 #2 10k ohm Resistors
 
 It's an attempt to make a speed detector for linearly moving ground vehicles.
